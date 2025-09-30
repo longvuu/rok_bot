@@ -1,0 +1,12 @@
+{
+  "emulator-5554": {
+    "fog": true,
+    "other": false,
+    "reconnect": true,
+    "anti_ban": true,
+    "captcha": true,
+    "auto_pause": false,
+    "run_minutes": 30,
+    "pause_minutes": 10
+  }
+}
