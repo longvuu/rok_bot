@@ -13,6 +13,4 @@
 - **Sử dụng ngôn ngữ english**
 - **Màn hình:** 960 * 540
 - **Chạy start.bat để mở tool**
-- **Key lấy ở server discord:** https://discord.gg/9tS9pC5egU
-
 
